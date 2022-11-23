@@ -34,6 +34,9 @@
     <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="electron" width="40" height="40"/> </a>
     <a href="https://www.electronjs.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" alt="socket.io" width="40" height="40"/> </a>
     <a href="https://phaser.io" target="_blank"> <img src="https://phaser.io/images/logo/logo-download-vector.png" alt="socket.io" width="40" height="40"/> </a>
-    <a href="https://colyseus.io" target="_blank"> <img src="https://avatars.githubusercontent.com/u/28384334?s=200&v=4" alt="colyseus" width="40" height="40"/> </a>
+    <a href="https://phaser.io" target="_blank"> <img src="https://avatars.githubusercontent.com/u/11019186?s=200&v=4" alt="socket.io" width="40" height="40"/> </a>
+    <a href="https://colyseus.io" target="_blank"> <img src="https://raw.githubusercontent.com/colyseus/colyseus/master/media/header.png" alt="colyseus" width="80" height="40"/> </a>
+    <a href="https://sonic-pi.net" target="_blank"> <img src="https://sonic-pi.net/media/images/home/logo.png" alt="sonic-pi" width="40" height="40"/> </a>
+    <a href="https://sonic-pi.net" target="_blank"> <img src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4" alt="nuxt" width="40" height="40"/> </a>
 
 </p>
