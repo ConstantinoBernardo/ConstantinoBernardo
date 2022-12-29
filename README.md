@@ -8,11 +8,8 @@
     **constantinobernardo17@gmail.com**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=ConstantinoBernardo&label=Profile%20views&color=0e75b6&style=flat" alt="Constantino" /> </p>
 
-<div style="display:flex;">
-  <a href="https://github.com/ConstantinoBernardo">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConstantinoBernardo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074953341913) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/medsonbernardo) 
 
 
 <h3 align="left">languages ​​and freamworks </h3>
@@ -38,5 +35,13 @@
     <a href="https://colyseus.io" target="_blank"> <img src="https://raw.githubusercontent.com/colyseus/colyseus/master/media/header.png" alt="colyseus" width="80" height="40"/> </a>
     <a href="https://sonic-pi.net" target="_blank"> <img src="https://sonic-pi.net/media/images/home/logo.png" alt="sonic-pi" width="40" height="40"/> </a>
     <a href="https://sonic-pi.net" target="_blank"> <img src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4" alt="nuxt" width="40" height="40"/> </a>
-
 </p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ConstantinoBernardo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ConstantinoBernardo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ConstantinoBernardo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ConstantinoBernardo&icon=0&color=0)](https://visitcount.itsvg.in)
